@@ -5,7 +5,7 @@
    Voir README.md, étape 2, pour brancher la vraie base gratuite.
    ========================================================== */
 window.SIGNATURE_CONFIG = {
-  SUPABASE_URL: "https://legoujiolgjqnbszxape.supabase.co/rest/v1/",        // ex. https://abcdxyz.supabase.co
+  SUPABASE_URL: "hhttps://legoujiolgjqnbszxape.supabase.co",        // ex. https://abcdxyz.supabase.co
   SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxlZ291amlvbGdqcW5ic3p4YXBlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI2NzE4MjQsImV4cCI6MjEwODI0NzgyNH0.npk761PXbHXb-koRL0DcS4XWdFSevQJKh6IjHEhZBJU",   // clé « anon / public » (pas la clé service_role !)
 
   // E-mail administrateur (le compte qui gère le catalogue et les commandes).
